@@ -1,5 +1,5 @@
 # Requirement tools i already installed is
-Claude code
+Claude code and
 Codex
 
 # What step i already complete
